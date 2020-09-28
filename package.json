@@ -52,7 +52,7 @@
     "@storybook/addon-actions": "^5.3.13",
     "@storybook/addon-links": "^5.3.13",
     "@storybook/addon-storyshots": "^5.3.13",
-    "@storybook/addons": "^5.3.13",
+    "@storybook/addons": "^6.0.22",
     "@storybook/react": "^5.3.13",
     "babel-plugin-macros": "^2.8.0",
     "node-sass": "4.13.1",
