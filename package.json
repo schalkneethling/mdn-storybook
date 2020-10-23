@@ -51,7 +51,7 @@
   "devDependencies": {
     "@storybook/addon-actions": "^5.3.13",
     "@storybook/addon-links": "^5.3.13",
-    "@storybook/addon-storyshots": "^5.3.13",
+    "@storybook/addon-storyshots": "^6.0.27",
     "@storybook/addons": "^5.3.13",
     "@storybook/react": "^5.3.13",
     "babel-plugin-macros": "^2.8.0",
